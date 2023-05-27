@@ -11,10 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Hello Word!")
+        print("Hello Word")
         let mapView = MapViewController()
         print(mapView)
-        
     }
 
 
